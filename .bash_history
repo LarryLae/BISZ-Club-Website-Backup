@@ -1,0 +1,1064 @@
+#1650447729
+uname -a
+#1650447565
+ls
+#1650447599
+sudo
+#1650447635
+cat /etc/os-release
+#1650447671
+lsb_release -a
+#1650447708
+uname -a
+#1650447775
+lsb_release -a
+#1650447927
+cat lsb_release -a
+#1650447935
+lsb_release -a
+#1650447958
+hostnamectl
+#1650447966
+version
+#1650447973
+uname
+#1650447991
+uname -srm
+#1650448277
+sudo dnf install epel-release
+#1650448292
+sudo yum
+#1650448331
+apt-get install sudo
+#1650448352
+apt-get
+#1650448376
+su-
+#1650448380
+su -
+#1650448407
+su
+#1650448445
+cat /etc
+#1650448457
+cat /etc/
+#1650448467
+cat /etc/passwd
+#1650448505
+adduser node
+#1650448518
+ls
+#1650448529
+cat etc/
+#1650448568
+su -
+#1650448611
+yum
+#1650448615
+dnf
+#1650448623
+brew
+#1650448632
+apt-get
+#1650448637
+apk
+#1650448640
+pacman
+#1650448648
+su
+#1650448784
+yum install
+#1650448790
+exit
+#1650448882
+apt
+#1650448898
+yum install
+#1650448923
+exit
+#1650451657
+nano
+#1650451666
+vim
+#1650451883
+ls
+#1650451930
+touch theEndIsNear.txt
+#1650451946
+nano theEndIsNear.txt
+#1650453190
+nano theEndIsNear
+#1650453197
+nano theEndIsNear.txt
+#1650453202
+ls
+#1650453225
+rm theEndIsNear.txt
+#1650453227
+ls
+#1650453286
+rename
+#1650453313
+
+#1650453316
+ls
+#1650453372
+rename theEndIsNear.txt.save theEndIsNear.txt theEndIsNear.txt.save
+#1650453374
+ls
+#1650453385
+nano theEndIsNear.txt
+#1650453633
+catch theEndIsNear.txt
+#1650453644
+cat theEndIsNear.txt
+#1650453739
+ls etc/
+#1650453751
+cd etc
+#1650453754
+ls
+#1650453771
+cd biszweb.club
+#1650453773
+ls
+#1650453779
+cd ..
+#1650453787
+cd .
+#1650453791
+cd ..
+#1650453824
+sudo -i
+#1650453843
+su
+#1650454032
+pkexec apt install sudo
+#1650454130
+su 0
+#1650454138
+su - admin
+#1650454151
+su - fdjbj0lyjw2r
+#1650454186
+/usr/bin/id -a
+#1650454239
+su - 8513363
+#1650454342
+apt
+#1650454347
+help
+#1650454393
+ym
+#1650454395
+yum
+#1650454411
+nano /etc/sudoers
+#1650454448
+/usr/bin/sudocommand
+#1650454476
+/bin/sudo
+#1650454485
+/usr/bin/sudo
+#1650454490
+/sbin/sudo
+#1650454495
+/usr/sbin/sudo
+#1650454502
+/usr/local/bin/sudo
+#1650454507
+/usr/local/sbin/sudo
+#1650454512
+ls /usr/
+#1650454528
+ls /usr/bin
+#1650454550
+ls /usr/
+#1650454558
+ls /usr/sbin
+#1650454571
+ls /usr/local
+#1650454577
+ls /usr/local/bin
+#1650454583
+exit
+#1650502859
+ls
+#1650502888
+nano .bash_history
+#1650502923
+tree
+#1650502945
+ls temp/
+#1650502950
+ls tmp
+#1650502967
+cat .viminfo
+#1650502979
+ls
+#1650503009
+ls logs
+#1650503030
+cd .
+#1650503033
+cd ..
+#1650503035
+ls
+#1650503209
+cd fdjbj0lyjw2r
+#1650503215
+ls
+#1650503240
+ls public_html
+#1650503254
+cd public_html
+#1650503291
+ls 3dtest
+#1650503300
+cd 3dtest
+#1650503312
+vim test101.html
+#1650503653
+ls
+#1650503668
+rm .test101.html.swp 
+#1650503676
+vim test101.html
+#1650503689
+rm .test101.html.swp 
+#1650503694
+vim test101.html
+#1650504214
+ls
+#1650504231
+cd public_html/
+#1650504236
+ls
+#1650504239
+cd 3dtest/
+#1650504353
+scp
+#1650504360
+ls
+#1650504383
+ls test
+#1650504413
+cd test
+#1650504427
+vim test101.html
+#1650529311
+cd public_html/
+#1650529321
+cd 3dtest/
+#1650529337
+vim test_101
+#1650529364
+ls
+#1650529374
+vim test101
+#1650529381
+vim test101.html
+#1650529421
+cd ...
+#1650529426
+cd ..
+#1650529430
+cd .../
+#1650529432
+cd ..
+#1650529439
+ls
+#1650529454
+cat theEndIsNear.txt
+#1650529538
+exit
+#1650533236
+ls
+#1650533304
+cd ..
+#1650533309
+ls
+#1650533315
+cd fdjbj0lyjw2r/
+#1650533338
+cd public_html/
+#1650533344
+ls
+#1650533374
+cd 3dtest/
+#1650533378
+ls
+#1650533386
+vim test101.html
+#1650533422
+ls
+#1650533432
+rm .test101.html.swp 
+#1650533445
+vim test101.html
+#1650533624
+flush
+#1650533666
+sudo
+#1650533669
+su
+#1650533675
+apt-get
+#1650533688
+vim
+#1650533745
+apt-get
+#1650533752
+yum
+#1650533760
+pacman
+#1650533846
+ls
+#1650533881
+cat .md5Sum
+#1650533909
+cat .md5sum
+#1650534663
+ping 184.168.103.119
+#1650534676
+ping www.baidu.com
+#1650534745
+vim
+#1650534754
+vi
+#1650534758
+nano
+#1650534767
+apt
+#1650534773
+uname
+#1650534789
+uname -a
+#1650534856
+rm -rf
+#1650534921
+vim,
+#1650534923
+vim
+#1650534956
+echo helloworld
+#1650534965
+echo hello aaron
+#1650535000
+ping google.com
+#1650535010
+echo fuck you godaddy
+#1650535031
+echo gave my sudo back
+#1650535040
+exit
+#1650541822
+sudo su-
+#1650541849
+ssh
+#1650541870
+ssh root@184.168.103.119
+#1650542026
+su -
+#1650542046
+exit
+#1650542474
+df -H
+#1650542482
+df
+#1650542542
+cat /proc
+#1650542580
+cat /proc/meminfo |grep MemTotal3
+#1650542598
+cat /proc/cpuinfo
+#1650542647
+lsusb -tv # 
+#1650542650
+lsmod
+#1650542658
+free -m
+#1650542692
+grep MemTotal /proc/meminfo
+#1650542716
+mount | column -t
+#1650542728
+fdisk
+#1650542741
+df -h
+#1650542757
+du -sh
+#1650542782
+du -k
+#1650542797
+du -l
+#1650542813
+statfs() exit
+#1650542839
+make
+#1650542869
+brew
+#1650542881
+df-a
+#1650542884
+df -a
+#1650542901
+du -h
+#1650542938
+fdisk -l
+#1650543010
+exit
+#1651736023
+dir/p
+#1651742993
+ls
+#1651743009
+cd public_html/
+#1651743011
+ls
+#1651743038
+starr rr.gif
+#1651743042
+start rr.gif
+#1651743339
+cd ~
+#1651743375
+cat theEndIsNear.txt
+#1651743382
+sudo hello
+#1651743399
+cd /public_html
+#1651743415
+cd public_html/
+#1651743434
+cat clubindex.html
+#1651808811
+ping biszweb.club
+#1651808814
+sudo
+#1651808816
+su
+#1651808825
+info
+#1651809133
+ls
+#1651809142
+cd public_html/
+#1651809145
+ls
+#1651809154
+vi 404.shtml
+#1651809395
+ls
+#1651809404
+cd public_html/
+#1651809415
+ls
+#1651809473
+vi newdoc.txt
+#1651822281
+ls
+#1651822289
+cd public_html/
+#1651822292
+lsls
+#1651822299
+ls
+#1651822323
+nano 404.shtml
+#1651822520
+ls
+#1651822530
+cd public_html/
+#1651822532
+ls
+#1651822561
+nano theEndIsNear2.txt
+#1651823083
+cd public_html/
+#1651823085
+ls
+#1651823111
+cat theEndIsNear2.txt
+#1651823119
+cat theEndIsNear2.txt.save
+#1652233204
+ssh
+#1652233188
+cd public_html/
+#1652233198
+sh
+#1652233273
+cd public_html/
+#1652233274
+ls
+#1652233309
+nano charles.txt
+#1653535639
+ls
+#1653535652
+cd public_html/
+#1653535654
+ls
+#1653535675
+nano clubindex.html
+#1653535720
+logout
+#1658721206
+ls
+#1658721225
+cd ./
+#1658721227
+ls
+#1658721234
+cd /
+#1658721237
+ls
+#1658721244
+cd root
+#1658721251
+sudo cd root
+#1658721259
+cd etc
+#1658721261
+ls
+#1658721273
+cd ../
+#1658721278
+ls
+#1658721283
+cd home
+#1658721285
+ls
+#1658721292
+cd fdjbj0lyjw2r/
+#1658721293
+ls
+#1658721311
+cd public_html
+#1658721312
+ls
+#1658721326
+cd ../
+#1658721327
+ls
+#1658721333
+cat .md5sum
+#1658721352
+mkdir 3D_chess
+#1658721353
+ls
+#1658721368
+cd 3D_chess/
+#1658721384
+touch ReadMe
+#1658721386
+ls
+#1658721396
+nano Readme
+#1658721403
+nano ReadMe
+#1658721449
+cat ReadMe
+#1658721454
+ls
+#1658721467
+vim index.html
+#1658721476
+ls
+#1658721486
+exit
+#1658726488
+ls
+#1658726496
+cd
+#1658726505
+ls
+#1658726512
+cd 3D_chess
+#1658726514
+cd
+#1658726528
+mkdir .vim
+#1658726544
+cd .vim
+#1658726546
+ls
+#1658726550
+vim vimrc
+#1658726641
+cd
+#1658726642
+ls
+#1658726654
+ls .vim
+#1658727057
+ls
+#1658727063
+cat .viminfo
+#1658727079
+ls
+#1658727083
+cd .vim
+#1658727084
+ls
+#1658727098
+vim vimrc
+#1658727208
+vim
+#1658727217
+vim vimrc
+#1658827716
+ls
+#1658827724
+cd public_html/
+#1658827726
+ls
+#1658827740
+cd 3dchess
+#1658827742
+ls
+#1658827747
+cat ReadMe 
+#1658827756
+vim index.html
+#1658827833
+exit
+#1658849921
+pwd
+#1658849925
+ls
+#1658849942
+cd public_html
+#1658849944
+ls
+#1658849953
+ls fonts
+#1658849958
+pwd
+#1659108910
+ls
+#1659108940
+df -h
+#1659108949
+du
+#1659108970
+df
+#1659108981
+df -T
+#1659108990
+du -s
+#1659109002
+stat
+#1659109009
+fdisk -i
+#1659109116
+ls
+#1659109149
+cd public_html
+#1659109150
+ls
+#1659109164
+ls 3dtest
+#1659109174
+cd 3dtest
+#1659109182
+ls test
+#1659109203
+pwd
+#1659109278
+cd
+#1659109287
+ls
+#1659109293
+cd public_html
+#1659109299
+ls
+#1659109309
+cd 3dchess
+#1659109311
+pwd
+#1659109390
+cp /home/fdjbj0lyjw2r/public_html/3dtest /home/fdjbj0lyjw2r/public_html/3dchess
+#1659109395
+ls
+#1659109452
+cp -r /home/fdjbj0lyjw2r/public_html/3dtest/test /home/fdjbj0lyjw2r/public_html/3dchess
+#1659109455
+ls
+#1659109458
+ls test
+#1659109467
+cd testexit
+#1659109475
+cd test
+#1659109511
+ls practicaltest/
+#1659109818
+cd practicaltest/
+#1659109827
+cat test101.html
+#1659109834
+vim test101.html
+#1659109931
+cd ../
+#1659109938
+ls
+#1659109982
+vim test101.html
+#1659110024
+cd practicaltest/
+#1659110030
+vim test101.html
+#1659110097
+cd .../
+#1659110103
+cd ../
+#1659110163
+cd ...
+#1659110170
+ls
+#1659110185
+mv practicaltest/ Easter/
+#1659110187
+ls
+#1659110197
+ls Easter
+#1659110301
+mv test101.html .._test101.html
+#1659110313
+cd ..
+#1659110315
+ls
+#1659110336
+cd test
+#1659110337
+ls
+#1659110367
+mv .._test101.html test101.html
+#1659110370
+ls
+#1659110392
+cd Easter/
+#1659110394
+ls
+#1659110409
+mv test101.html _test101.html
+#1659110411
+ls
+#1659110423
+mv _test101.html ..
+#1659110427
+cd ..
+#1659110431
+ls
+#1659110445
+ls Easter/
+#1659110464
+rm -rf Easter
+#1659110466
+ls
+#1659110484
+mkdir Easter
+#1659110492
+ls
+#1659110502
+mv _test101.html Easter
+#1659110503
+ls
+#1659110508
+ls Easter
+#1659110664
+cd Easter/
+#1659110672
+cd ../../..
+#1659110689
+cd 3dchess/test/Easter
+#1659110690
+ls
+#1659110701
+mv _test101.html  index.html
+#1659110703
+ls
+#1659110707
+vim index.html
+#1659110763
+cat index.html
+#1659110768
+vim index.html
+#1659110810
+cat index.html
+#1659110853
+vim index.html
+#1659110899
+cat index.html
+#1659110917
+exit
+#1659698693
+ls
+#1659698723
+mkdir stockfish
+#1659698724
+ls
+#1659700018
+cd stockfish
+#1659700019
+ls
+#1659700051
+unzip stockfish_15_linux_x64.zip 
+#1659700058
+ls
+#1659700066
+cd stockfish_15_linux_x64
+#1659700068
+ls
+#1659700076
+cat info.txt
+#1659700090
+ls
+#1659700137
+stockfish_15_x64
+#1659700157
+cd stockfish_15_src/
+#1659700158
+ls
+#1659700171
+cat README.md 
+#1659700200
+ls
+#1659700203
+cd src
+#1659700205
+ls
+#1659700211
+gcc
+#1659700227
+Makefile
+#1659700235
+gcc main.cpp
+#1659700251
+ls
+#1659700300
+make Makefile
+#1659700304
+make
+#1659700312
+clear
+#1659700335
+cat Makefile 
+#1659700346
+make Makefile 
+#1659700469
+vim Makefile 
+#1659700543
+make clean
+#1659700547
+make Makefile 
+#1659700555
+ls
+#1659700721
+cd ../
+#1659700723
+ls
+#1659700728
+cd ../
+#1659700730
+ls
+#1659700790
+cd stockfish_15_src
+#1659700792
+ls
+#1659700800
+./tests
+#1659700806
+cd tests
+#1659700809
+ls
+#1659700828
+bash instrumented.sh
+#1659700861
+sh instrumented.sh 
+#1659700876
+sh perft.sh
+#1659700882
+sh signature.sh 
+#1659700885
+ls
+#1659708282
+cd stockfish
+#1659708283
+ls
+#1659708288
+cd stockfish_15_linux_x64
+#1659708289
+ls
+#1659708311
+chmod -x stockfish_15_x64
+#1659708315
+./stockfish_15_src/
+#1659708338
+./stockfish_15_x64
+#1659708377
+ls
+#1659708428
+cd stockfish_15_src/
+#1659708432
+ls
+#1659708442
+cd src
+#1659708444
+ls
+#1659708464
+make build ARCH=x86-64
+#1659708530
+cd ../../../
+#1659708544
+ls
+#1659708553
+rm -rf stockfish_15_linux_x64
+#1659708555
+ls
+#1659867950
+php
+#1659868004
+java
+#1659868015
+nestat
+#1659868018
+php
+#1659868083
+ls
+#1659868190
+ls public_html/
+#1659868204
+cd public_html/
+#1659868207
+ls
+#1659868216
+mkdir test
+#1659868218
+ls
+#1659868235
+mv sakura-3.4.0.zip test
+#1659868236
+ls
+#1659868240
+cd test
+#1659868242
+ls
+#1659868248
+unzip sakura-3.4.0.zip 
+#1659868252
+ls
+#1659868256
+cd sakura-3.4.0
+#1659868257
+ls
+#1659868276
+cd ../
+#1659868284
+mv sakura-3.4.0 test
+#1659868286
+ls
+#1659868375
+vim index.php
+#1659868413
+vim page.php
+#1659868496
+cd test
+#1659868497
+ls
+#1659868508
+vim index.php
+#1659868584
+php
+#1659868606
+php -v
+#1659868632
+mysql
+#1659868652
+php index.php
+#1659868722
+cd ../
+#1659868732
+ls
+#1659868741
+cd test
+#1659868742
+ls
+#1659868758
+mv test Sakura
+#1659868760
+ls
+#1659868873
+cd ./
+#1659868876
+cd ../
+#1659868877
+ls
+#1659868896
+mv test wp-content
+#1659868898
+ls
+#1659868908
+ls wp-content/
+#1659868915
+mkdir themes
+#1659868916
+ls
+#1659868935
+rm themes
+#1659868946
+del themes
+#1659868971
+rm -rf themes
+#1659868973
+ls
+#1659868977
+cd wp-content/
+#1659868978
+ls
+#1659868983
+mkdir themes
+#1659868996
+ls
+#1659869006
+mv Sakura/ themes
+#1659869007
+ls
+#1659869010
+cd themes/
+#1659869014
+ls
+#1659869021
+cd Sakura/
+#1659869022
+ls
+#1659869072
+php -v
+#1659869140
+wordpress
+#1659869154
+exit
+#1659889906
+echo this is php
+#1659889928
+echo phpversion();
+#1659889967
+php -v
+#1659890209
+opendatabase()
+#1659890238
+openDatabase();
+#1659890241
+openDatabase() var test = openDatabase('test','1.0','this is a client')
+#1659890369
+var test = openDatabase('test','1.0','this ia client')
+#1659891897
+MySQL -v
+#1659891948
+mysql -v
+#1659953578
+mysql
+#1659953589
+mysql -v
